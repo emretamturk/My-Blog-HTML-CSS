@@ -1,0 +1,220 @@
+/* INDEX CSS */
+body {
+  margin: 0 auto;
+  background-color: #ce536e;
+  min-height: auto;
+}
+
+/* TOP CONTAINER */
+
+.top-container {
+  background-color: #070000;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  position: static;
+  margin: 0px;
+  height: fit-content;
+}
+
+.menu {
+  height: 80px;
+  position: relative;
+  margin-left: 1400px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+span {
+  margin-right: 20px;
+  top: 25px;
+  position: relative;
+  font-size: large;
+}
+
+.j:hover {
+  font-size: larger;
+}
+.b:hover {
+  font-size: larger;
+}
+.cer:hover {
+  font-size: larger;
+}
+.con:hover {
+  font-size: larger;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.blogphoto {
+  height: 80px;
+  width: 100px;
+  position: absolute;
+  top: 0;
+}
+
+.welcome {
+  margin: 0;
+  position: absolute;
+  top: 20px;
+  left: 750px;
+  font-family: "Sacramento", cursive;
+  font-weight: 300px;
+  font-size: 2rem;
+}
+
+/* MIDDLE CONTAINER */
+
+.middle-container {
+  background-color: #f5efe6;
+  margin: 0;
+  height: 650px;
+  width: 100%;
+}
+
+.intromsg {
+  display: inline;
+  position: absolute;
+  margin-left: 805px;
+  margin-top: 50px;
+  font-family: "Noto Serif JP", serif;
+}
+.intromsg2 {
+  display: inline;
+  position: absolute;
+  margin-left: 660px;
+  margin-top: 500px;
+  font-family: "Noto Serif JP", serif;
+}
+.intromsg2:hover {
+  font-size: 25px;
+}
+.mypic {
+  position: relative;
+  margin-left: 755px;
+  margin-top: 140px;
+}
+
+.cloud1 {
+  position: relative;
+  margin-left: 100px;
+  margin-top: 140px;
+}
+
+.hrtop {
+  position: relative;
+  margin-top: 170px;
+  margin-right: 960px;
+  border: dotted #f0caa3 6px;
+  border-bottom: none;
+  width: 6%;
+}
+/* BOTTOM CONTAINER */
+.bottom-container {
+  background-color: #f0caa3;
+  margin: 0;
+  height: 700px;
+  width: 100%;
+}
+.skills {
+  margin-top: 0px;
+  font-family: "Noto Serif JP", serif;
+  position: relative;
+  margin-left: 760px;
+  top: 50px;
+  width: fit-content;
+}
+
+.compskl {
+  text-align: justify;
+  font-family: "Lato", sans-serif;
+  margin: 0px;
+  position: relative;
+  left: 500px;
+  top: 155px;
+  font-weight: bold;
+  width: fit-content;
+}
+
+.comp {
+  height: 400px;
+  width: 300px;
+  position: relative;
+  left: 150px;
+  top: 60px;
+}
+
+.sklist {
+  display: list-item;
+  position: relative;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  width: fit-content;
+  margin: 0px;
+  bottom: 200px;
+  left: 500px;
+  list-style: square;
+}
+
+.sklist2 {
+  display: list-item;
+  position: relative;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  width: fit-content;
+  margin: 0px;
+  bottom: 372px;
+  left: 900px;
+  list-style: square;
+}
+
+.road {
+  position: relative;
+  height: 400px;
+  width: 400px;
+  top: 195px;
+  left: 1150px;
+}
+
+.skl {
+  position: relative;
+  height: 200px;
+  width: 300px;
+  bottom: 365px;
+  left: 895px;
+}
+
+/*FOOTER CSS */
+footer {
+  background-color: #070000;
+  width: 100%;
+  height: 100px;
+}
+.lnkdn {
+  height: 30px;
+  width: 30px;
+  width: fit-content;
+  position: relative;
+  top: 15px;
+  left: 900px;
+}
+
+.lnkdn:hover {
+  height: 35px;
+  width: 35px;
+}
+
+.copy {
+  color: whitesmoke;
+  width: fit-content;
+  position: relative;
+  left: 750px;
+  font-family: "Lato", sans-serif;
+}
+/*JOB CSS */
+/*CERTIFICATE CSS */
+/*CONTACT CSS */
+/*BLOG CSS */ ;
